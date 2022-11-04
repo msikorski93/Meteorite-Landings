@@ -1,2 +1,2 @@
 # Meteorite-Landings
-Basic data analysis focused mainly on visualizing geospatial data worldwide with cartopy.
+Basic data analysis focused mainly on visualizing geospatial data worldwide with <code>cartopy</code>.
